@@ -1,5 +1,5 @@
-![image info](Banner-cocoa-revised.png)
-### Hi! This is EDG_Ahab 👋
+![image info](coca.png)
+### Hi! This is Feilian Huang (EDG_Ahab) 👋
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=EDGAhab&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true">
 

@@ -10,3 +10,4 @@
 - :gear: JavaScript, Python, C#, java, HTML
 - :seedling: Double Majoring in Computer Science and Mathematics
 - :sparkles: *[Linkedin](https://www.linkedin.com/in/feilian-huang-a6ba801a1)*
+- :heartbeat: *[Take a look at this cute browser pet!](https://browser-pet.com/)*

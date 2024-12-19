@@ -6,7 +6,7 @@
 
 ### Hi! This is Feilian Huang (EDG_Ahab) 👋
 
-- :mortar_board: Georgia Institute of Technology
+- :mortar_board: Software Engineer II @ Cadence Design Systems
 - :gear: JavaScript, Python, C#, java, HTML
 - :seedling: Double Majoring in Computer Science and Mathematics
 - :sparkles: *[Linkedin](https://www.linkedin.com/in/feilian-huang-a6ba801a1)*

@@ -7,6 +7,6 @@
 ### Hi! This is Feilian Huang (EDG_Ahab) 👋
 
 - :seedling: Software Engineer II @ Cadence Design Systems
-- :gear: JavaScript, Python, C#, java, HTML
-- 🎓: Georgia Institute of Technology (BS), Johns Hopkins University (MS)
+- :gear: RAG, LLM, AI Agent
+- 🎓: Georgia Institute of Technology
 - :sparkles: *[Linkedin](https://www.linkedin.com/in/feilian-huang-a6ba801a1)*

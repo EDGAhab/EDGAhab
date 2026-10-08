@@ -1,4 +1,4 @@
-![Feilian Huang](coca.png)
+![Feilian Huang](banner.png)
 
 # Hi, I'm Feilian Huang 👋
 

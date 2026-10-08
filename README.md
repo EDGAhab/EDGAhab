@@ -19,7 +19,7 @@ Previously: Software Developer Intern @ Cadence (RAG pipeline for the JedAI LLM)
 
 🎓 B.S. Georgia Tech (Math + CS) · M.S. Johns Hopkins (CS)
 
-📄 Full work history on [my website](https://github.com/EDGAhab) *(personal site link coming soon)*
+📄 Full work history on [my website](https://edgahab.github.io/#work)
 
 ---
 
@@ -37,12 +37,13 @@ Previously: Software Developer Intern @ Cadence (RAG pipeline for the JedAI LLM)
 - *Yankees in the Sound* — [SSRN](https://doi.org/10.2139/ssrn.7568619) · under review at *IJMH*
 - *The Neutral-Carrier Recovery, 1809–1811* — [SSRN](https://doi.org/10.2139/ssrn.7568640) · under review at *Scandinavian Economic History Review*
 
-📄 Full list with links on [my website](https://github.com/EDGAhab) *(personal site link coming soon)*
+📄 Full list with links on [my website](https://edgahab.github.io/#research)
 
 ---
 
 ## 📫 Connect
 
+- 🌐 [edgahab.github.io](https://edgahab.github.io/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/feilian-huang-a6ba801a1)
 - 🆔 [ORCID](https://orcid.org/0009-0006-2214-0233)
 - 📧 fffeilian@gmail.com
